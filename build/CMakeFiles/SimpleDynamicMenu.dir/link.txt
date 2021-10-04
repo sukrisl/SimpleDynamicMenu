@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SimpleDynamicMenu.dir/main.cpp.o CMakeFiles/SimpleDynamicMenu.dir/Menu.cpp.o  -o SimpleDynamicMenu 

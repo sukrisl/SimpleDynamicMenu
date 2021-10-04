@@ -1,0 +1,6 @@
+# ninja log v5
+1	351	1633283135811497000	CMakeFiles/SimpleDynamicMenu.dir/main.cpp.o	6b57a74c5cc50869
+1	309	1633282773847439500	CMakeFiles/SimpleDynamicMenu.dir/Menu.cpp.o	75f1ca6444131ba0
+352	451	1633283135909971200	SimpleDynamicMenu	1b97892ca82f230d
+2	358	1633283160182935200	CMakeFiles/SimpleDynamicMenu.dir/main.cpp.o	6b57a74c5cc50869
+358	463	1633283160287955100	SimpleDynamicMenu	1b97892ca82f230d

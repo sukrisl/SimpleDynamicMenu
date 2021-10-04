@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/work_files/SimpleDynamicMenu/Menu.cpp
+Menu.h
+/mnt/c/work_files/SimpleDynamicMenu/Menu.h
+
+/mnt/c/work_files/SimpleDynamicMenu/Menu.h
+iostream
+-
+stdio.h
+-
+
+/mnt/c/work_files/SimpleDynamicMenu/main.cpp
+Menu.h
+/mnt/c/work_files/SimpleDynamicMenu/Menu.h
+

@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/mnt/c/work_files/SimpleDynamicMenu/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/SimpleDynamicMenu.dir/main.cpp.o -c /mnt/c/work_files/SimpleDynamicMenu/main.cpp",
+  "file": "/mnt/c/work_files/SimpleDynamicMenu/main.cpp"
+},
+
+{
+  "directory": "/mnt/c/work_files/SimpleDynamicMenu/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/SimpleDynamicMenu.dir/Menu.cpp.o -c /mnt/c/work_files/SimpleDynamicMenu/Menu.cpp",
+  "file": "/mnt/c/work_files/SimpleDynamicMenu/Menu.cpp"
+}
+]

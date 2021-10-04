@@ -1,0 +1,3 @@
+/mnt/c/work_files/SimpleDynamicMenu/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/work_files/SimpleDynamicMenu/build/CMakeFiles/edit_cache.dir
+/mnt/c/work_files/SimpleDynamicMenu/build/CMakeFiles/SimpleDynamicMenu.dir
